@@ -1,2 +1,1 @@
-# crud
-es una tarea muy simple esta feo el codigo 
+# crud vista desde interfaz de usuario
